@@ -1,11 +1,9 @@
-### Hi there, My name is Naimat Oyewale. A backend developer skilled with Nodejs, Typescript, Mongodb, Mysql, Postgresql and graphql. TDD with Mocha and Chai
+### Hi there, My name is Naimot Oyewale. I am a Nigerian with vast experience in Software development, data science and machine learning fields. I have 3 years of work ### experience in building cross-platform website applications and USSD.
 
 
-- 🔭 I’m currently working on a USSD App for reporting incidence in my country using Nodejs, siffr/server, redis and Mysql
-- 🌱 I’m currently learning backend development with Go programming language
-- 👯 I’m looking to collaborate on any backend project written in Nodejs | Go
-- 🤔 I’m looking for help with learning Go language well and writing unit test well 
-- 💬 Ask me about anything concerning software development
+- 🔭 I’m currently building a machine learning model that can predict student attrition. I hope to build an API around that.
+- 🤔 I’m looking open for a new role in software engineering and data fields.
+- 💬 Ask me about anything concerning software development, data science or machine learning.
 - 📫 How to reach me: email: naimatoyewale@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love nature!
+- 😄 Pronouns: Her/she
+- ⚡ Fun fact: I love exploring the world of tech!
